@@ -1,11 +1,5 @@
-## 👋 - Hello
+## 👋, you can call me p1kky
 
-### Who i am?
-- 🎭 Alias: p1kky
-- 🌍 I am from Belarus
-- ❓ Contacts: @p1kky4 (Discord)
-
-### About me
-- 👀 Learning python currently
-- 📖 I like studying and learning something new
-- 🧐 Pronouns: he/him
+# About me
+- tech enthusiast
+- contacts: @p1kky444 at discord
